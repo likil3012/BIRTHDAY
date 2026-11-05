@@ -148,19 +148,21 @@ export const ROMANTIC_DATA = {
     revealedMessageBody: "Puttinaroju Pandaga Subhakankshalu naa muddula mardal! Nuvvu ee prapancham lo unna andharikanna ekkuvaga santhosham ga undali. Neeku eppudu em kaavalanna ee baava unnadani eppatiki marchipoku. Happy Birthday to my favorite person forever!"
   },
 
-  // Section 7: Love Letter Experience (Heartfelt Telugu English letter from Bava to Mardal)
+  // Section 7: Love Letter Experience (Heartfelt Telugu English letter to Kannamma)
   loveLetter: {
-    date: "A Sacred Birthday Message",
-    salutation: "Naa Muddhula Mardal,",
+    date: "2.5 Years of Us · A Sacred Birthday Letter",
+    salutation: "Hi there 👋🏻❤️ Naa muddula Kannamma,",
     paragraphs: [
-      "Evaraina nannu 'nee jeevitham lo jarigina athi peddha adhrushtam enti?' ani adigithe... kshanam kooda aalochinchakunda 'naa mardal naa jeevitham loki raavadam' ani chepthanu.",
-      "Chinnappati nunchi ninnu chusthunna... ninnu edipinchadam, nee jada laagi paripovadam, nuvvu 'baaava undu nanna ki cheptha' ani edusthunte chusi nenu navvukodam... ivi anni ippatiki naa gundello entho theepi gnapakaalu.",
-      "Kaani eppudu thelidhu, aa allari pilla eppudu naa gundeloki vachi inta peddha sthaanam sampaadinchukundho. Nuvvu lekapothe asalu naa roju ela untundho kooda nenu oohinchukolenu mardal. Nuvvu navvithe naaku pandaga, nuvvu koncham dull ga unna naaku manasulo edo gaabara.",
-      "Ee puttinaroju rojuna nenu neeku oka maata isthunna... nuvvu entha allari chesina, entha thippalu pettina, enni sarlu naatho godava padda—nenu ninnu eppatiki vadulukonu. Ninnu kallallo pettukoni chusukuntanu.",
-      "Nee moham meedha unna ee andhamaina navvu eppatiki ilage undali. Puttinaroju Subhakankshalu naa bangaram... I will always be there for you!"
+      "Ninnu ippatiki chala perlu tho pilichanu. Kani ippatiki nuvvu naa Kannamma gane baguntavu. ❤️",
+      "Eerojuki manam kalisi 2 and half years avutundi raa. Ippatiki nuvvu naaku chala special ey. Adhi ento, evarikaina dooranga unte prema taggutundi antaru, kani adhi ento naaku matram roju rojuki perugutundhe maa. ❤️",
+      "Naa jeevitham loki raavadam naa luck. And I love you! Naaku neetho unna aa imaginary world chaala nachindhi. Aa feeling chaala baagundhi. I hope and pray to God that adhi naaku real life lo kuda dorikithe chaala baaguntundhi.",
+      "Ippatiki nuvvu happy ga undadam, life long naatho undadam naaku kaavali maa. Kani adhi avvadhu ani kuda naaku ardham avutundhi. Jeevitham motham nee kosam ela gadapadanikaina nenu ready ga unnanu raa, nuvvu naa kosam vasthe anthe.",
+      "Nuvvu eppudu chepthavu kadha, 'Edhi em workout avvadhu' ani. Kani ento, konni konni saarlu nuvve naaku sontham anipisthav. Nuvvu lekunda undalenu ani kuda anipisthundhi. Chala mandhi ammayilani chusanu, kani ee ammayi icche vibe naaku ink ye ammayi ivvatledhu maa. ❤️",
+      "Chala saarlu nee meedha naaku kopam vachindhi. Matladakudadhu ani kuda anukunna. Kani em cheyyanu, matladakunda undalenu kadha! 🥹",
+      "Anyway, eeroju nee day! Nuvvu eppudu ilage happy ga undalani korukuntunnanu. Nee life adbhuthanga undalani manaspoorthiga korukuntunnanu. Oka maatalo cheppalante, Radha lanti nuvvu eppatiki naaku oka special person ey."
     ],
     closing: "Eppatiki neethone unde,",
-    signature: "Nee Allari Baava ❤️"
+    signature: "And I Love You, Kannamma! ❤️🫂"
   },
 
   // Section 8: Memory Gallery (Headings in English, Inner captions & reflections in authentic Telugu English)
@@ -250,7 +252,7 @@ export const ROMANTIC_DATA = {
     quoteSecondary: "Happy Birthday, My Forever Love ❤️",
     subtext: "Enni samvathsaraalu marina, enni janmalu vachina... ninnu ilage chusukunta mardal.",
     stats: [
-      { label: "Reasons I Adore You", value: "Lekkallenanni" },
+      { label: "Reasons I Adore You", value: "Countless" },
       { label: "My Heart's Favorite Person", value: "Always You" },
       { label: "Days I Want to Spend With You", value: "All of Them" },
       { label: "My Sacred Birthday Wish", value: "Your Smile" }
