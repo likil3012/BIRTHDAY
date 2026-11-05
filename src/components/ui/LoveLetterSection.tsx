@@ -72,7 +72,7 @@ export const LoveLetterSection: React.FC = () => {
 
               {/* Envelope Address Label */}
               <div className="absolute bottom-6 left-6 sm:left-8 font-cursive text-xl sm:text-2xl text-[#FFD6E0]/80">
-                To My Sweetest Mardal ❤️
+                To My Sweetest Kannamma ❤️
               </div>
               <div className="absolute top-6 right-8 text-[11px] font-mono text-[#D4AF37]/70 uppercase tracking-widest">
                 Confidential · Exclusively For You
