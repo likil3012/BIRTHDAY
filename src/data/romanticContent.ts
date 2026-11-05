@@ -252,7 +252,7 @@ export const ROMANTIC_DATA = {
     quoteSecondary: "Happy Birthday, My Forever Love ❤️",
     subtext: "Enni samvathsaraalu marina, enni janmalu vachina... ninnu ilage chusukunta mardal.",
     stats: [
-      { label: "Reasons I Adore You", value: "Lekkallenanni" },
+      { label: "Reasons I Adore You", value: "Countless" },
       { label: "My Heart's Favorite Person", value: "Always You" },
       { label: "Days I Want to Spend With You", value: "All of Them" },
       { label: "My Sacred Birthday Wish", value: "Your Smile" }
